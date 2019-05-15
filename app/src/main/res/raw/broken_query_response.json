@@ -1,0 +1,11 @@
+{
+  "data":{
+    "foos":[
+      null,
+      {
+        "__typename": "Foo",
+        "fizz": "asdf"
+      }
+    ]
+  }
+}

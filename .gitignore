@@ -1,0 +1,12 @@
+.gradle/
+build/
+.idea/
+*.iml
+out/
+.idea_modules/
+bin/
+gen/
+proguard/
+out/
+.DS_Store
+
